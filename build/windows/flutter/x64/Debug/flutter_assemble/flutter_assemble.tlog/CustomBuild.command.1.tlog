@@ -1,0 +1,28 @@
+^C:\USERS\ADGSENPAI\CODE\FLUTTER_HELLOWORLD\GITHUB-REPO-APP\BUILD\WINDOWS\CMAKEFILES\1F855E652B52DC6A25AC21C91D9BDEA3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\ADGSENPAI\Downloads\flutter_windows_3.0.5-stable\flutter PROJECT_DIR=C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app FLUTTER_ROOT=C:\Users\ADGSENPAI\Downloads\flutter_windows_3.0.5-stable\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app FLUTTER_TARGET=C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\.dart_tool\package_config.json C:/Users/ADGSENPAI/Downloads/flutter_windows_3.0.5-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADGSENPAI\CODE\FLUTTER_HELLOWORLD\GITHUB-REPO-APP\BUILD\WINDOWS\CMAKEFILES\94734376A906E7B700590744E1346730\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADGSENPAI\CODE\FLUTTER_HELLOWORLD\GITHUB-REPO-APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/windows -BC:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows --check-stamp-file C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

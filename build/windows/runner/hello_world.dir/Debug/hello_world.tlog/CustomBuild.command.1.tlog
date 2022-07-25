@@ -1,0 +1,10 @@
+^C:\USERS\ADGSENPAI\CODE\FLUTTER_HELLOWORLD\GITHUB-REPO-APP\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/windows -BC:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows --check-stamp-file C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/runner/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

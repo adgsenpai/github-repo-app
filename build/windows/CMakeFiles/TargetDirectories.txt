@@ -1,0 +1,13 @@
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/runner/CMakeFiles/hello_world.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+C:/Users/ADGSENPAI/Code/flutter_helloworld/github-repo-app/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir
