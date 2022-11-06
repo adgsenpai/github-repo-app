@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hello_world">
+    <!-- add permission for internet-->
+    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
         android:label="hello_world"
         android:name="${applicationName}"

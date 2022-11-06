@@ -7,6 +7,8 @@
     <uses-sdk
         android:minSdkVersion="16"
         android:targetSdkVersion="31" />
+    <!-- add permission for internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:name="android.app.Application"

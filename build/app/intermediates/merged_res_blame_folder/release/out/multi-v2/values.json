@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\flutter_helloworld\\github-repo-app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\github-repo-app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADGSENPAI\\Code\\flutter_helloworld\\github-repo-app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\ADGSENPAI\\Code\\github-repo-app\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "176,832",
+                        "startOffsets": "173,818",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "483,998"
+                        "endOffsets": "476,982"
                     },
                     "to": {
                         "startLines": "93,98",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\flutter_helloworld\\github-repo-app\\build\\url_launcher_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\github-repo-app\\build\\url_launcher_android\\intermediates\\merged_res\\release\\values-af\\values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ADGSENPAI\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-af\\values-af.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\flutter_helloworld\\github-repo-app\\build\\url_launcher_android\\intermediates\\merged_res\\release\\values-af\\values-af.xml",
+            "outputFile": "C:\\Users\\ADGSENPAI\\Code\\github-repo-app\\build\\url_launcher_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ADGSENPAI\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-af\\values-af.xml",

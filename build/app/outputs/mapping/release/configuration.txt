@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
+# The proguard configuration file for the following section is C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,8 +116,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
-# The proguard configuration file for the following section is C:\Users\ADGSENPAI\Downloads\flutter_windows_3.0.5-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
+# End of content from C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
+# The proguard configuration file for the following section is C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
 # This is due to plugins (libraries) depending on the embedding (the program jar)
@@ -126,14 +126,14 @@
 # The android.** package is provided by the OS at runtime.
 -dontwarn android.**
 
-# End of content from C:\Users\ADGSENPAI\Downloads\flutter_windows_3.0.5-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
-# The proguard configuration file for the following section is C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# End of content from C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
+# The proguard configuration file for the following section is C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class com.example.hello_world.MainActivity { <init>(); }
 -keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
 
-# End of content from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# End of content from C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 # The proguard configuration file for the following section is C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\proguard.txt
 # Copyright (C) 2020 The Android Open Source Project
 #

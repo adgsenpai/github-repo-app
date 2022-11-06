@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Users\ADGSENPAI\Code\github-repo-app\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android@@:url_launcher_android::release"
-      jars="C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\.transforms\cd8225744612b8eabeb18b68490c3033\transformed\out\jars\classes.jar"
+      name="C:\Users\ADGSENPAI\Code\github-repo-app\android@@:url_launcher_android::release"
+      jars="C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\.transforms\10240871a06d8154cb2448dc85406794\transformed\out\jars\classes.jar"
       resolved="io.flutter.plugins.urllauncher:url_launcher_android:unspecified"
-      folder="C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\.transforms\cd8225744612b8eabeb18b68490c3033\transformed\out"
+      folder="C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\.transforms\10240871a06d8154cb2448dc85406794\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,9 +17,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187\b1ef772a67fd82e70fd46706bfaa99a9976a86f0\flutter_embedding_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:flutter_embedding_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d@jar"
+      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d\46c236847e7cef0a0f297433fbbeab9d4b62f4a1\flutter_embedding_release-1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"/>
   <library
       name="androidx.window:window-java:1.0.0-beta04@aar"
       jars="C:\Users\ADGSENPAI\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\jars\classes.jar"
@@ -63,17 +63,17 @@
       jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.6.10\e1c380673654a089c4f0c9f83d0ddfdc1efdb498\kotlin-stdlib-jdk7-1.6.10.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187\39a18ec879f90bf3c23f37db9a1548040b4284cc\armeabi_v7a_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d@jar"
+      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d\3c3e02601bf287ab40c2894134324c62260c3fdc\armeabi_v7a_release-1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187\a6567a3dea5b70a6034e5d01e12adeccbf307441\arm64_v8a_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d@jar"
+      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d\2382eca9100db9c0199cbff7562e97a1c5cbd70\arm64_v8a_release-1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187@jar"
-      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187\3f8298dbbd697153f25d0ccc78d3948f630cec2e\x86_64_release-1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-e85ea0e79c6d894c120cda4ee8ee10fe6745e187"/>
+      name="io.flutter:x86_64_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d@jar"
+      jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d\7a487ddf721b0a866be54129ee58b85ddb530f46\x86_64_release-1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"/>
   <library
       name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
       jars="C:\Users\ADGSENPAI\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common-java8\2.2.0\cd3478503da69b1a7e0319bd2d1389943db9b364\lifecycle-common-java8-2.2.0.jar"

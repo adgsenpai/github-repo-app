@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:3:4-33:19
-MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
-MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:5:4-35:19
+MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.6.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
@@ -12,18 +12,18 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AD
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\acbce933e4b464a5224ed377a62db1f5\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:4:9-36
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:6:9-36
 	android:icon
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:8:9-43
 	android:name
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:5:9-42
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:7:9-42
 manifest
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\0e0e1a382b52c0572988a1c50e96d2f7\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -41,29 +41,33 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ADGSENPAI\.gradle\c
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
 	package
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:2:5-38
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-sdk
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
@@ -98,62 +102,62 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ADGSENPAI\.g
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\58e3540d7f5a5bac6af9a8f8fab44363\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml
 activity#com.example.hello_world.MainActivity
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:7:9-27:20
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:9:9-29:20
 	android:launchMode
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:10:13-43
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:12:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:13:13-47
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:15:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:14:13-55
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:16:13-55
 	android:exported
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:9:13-36
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:11:13-36
 	android:configChanges
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:12:13-163
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:14:13-163
 	android:theme
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:11:13-47
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:13:13-47
 	android:name
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:8:13-41
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:10:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:19:13-22:17
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:21:13-24:17
 	android:resource
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:21:15-52
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:23:15-52
 	android:name
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:20:15-70
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:22:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:24:17-68
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:26:17-68
 	android:name
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:25:17-76
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:27:17-76
 	android:name
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:27:27-74
 meta-data#flutterEmbedding
-ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:30:9-32:33
+ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:32:9-34:33
 	android:value
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:32:13-30
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:34:13-30
 	android:name
-		ADDED from C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\android\app\src\main\AndroidManifest.xml:31:13-44
+		ADDED from C:\Users\ADGSENPAI\Code\github-repo-app\android\app\src\main\AndroidManifest.xml:33:13-44
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
 	android:exported
-		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
 	android:theme
-		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
 	android:name
-		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\flutter_helloworld\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+		ADDED from [:url_launcher_android] C:\Users\ADGSENPAI\Code\github-repo-app\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ADGSENPAI\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
